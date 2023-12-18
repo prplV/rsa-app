@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 // mods
 mod server;
 mod client;
